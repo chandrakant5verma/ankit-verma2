@@ -1,0 +1,12 @@
+
+
+
+
+.NameLeftCompo{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
